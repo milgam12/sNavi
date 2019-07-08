@@ -1,1 +1,1 @@
-# sNavi
+# sNavigation
